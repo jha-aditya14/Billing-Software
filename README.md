@@ -15,10 +15,9 @@ Billing Software is a user-friendly desktop application developed with Tkinter t
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
-1. Set up a database for stock management. You can use a database of your choice, such as MySQL or SQLite. Update the database connection details in the `database.py` file.
-2. Run the application: `python main.py`
-3. The Billing Software window will open.
-4. Use the application to create invoices, track payments, and generate reports. You can now also manage your stock inventory through the integrated database.
+1. Run the application: `python main.py`
+2. The Billing Software window will open.
+3. Use the application to create invoices, track payments.
 
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please create a new issue in the GitHub repository. Pull requests are also appreciated.
