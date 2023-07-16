@@ -1,0 +1,13 @@
+	Welcome Aditya Retail
+
+Bill Number :9960
+Customer Name: a
+Phone Number :9 
+*************************************
+Products		  Qty		Price
+*************************************
+Fash Wash		1		89
+-------------------------------------
+Cosmetic Tax			    Rs. 4.45
+-------------------------------------
+Total Bill			  Rs. 93.45

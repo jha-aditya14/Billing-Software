@@ -1,0 +1,17 @@
+	Welcome Aditya Retail
+
+Bill Number :1044
+Customer Name: Ranjana
+Phone Number :9654614817 
+*************************************
+Products		  Qty		Price
+*************************************
+Bath Soap		  5	   Rs. 200
+Daal		  7	   Rs. 420
+Frooti		  1	   Rs. 65
+-------------------------------------
+Cosmetic Tax			   Rs. 10.0
+Grossary Tax			   Rs. 8.4
+Soft Drink Tax			   Rs. 1.23
+-------------------------------------
+Total Bill			Rs. 704.635

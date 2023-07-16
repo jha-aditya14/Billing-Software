@@ -1,0 +1,32 @@
+	Welcome Aditya Retail
+
+Bill Number :1999
+Customer Name: Aditya Jha
+Phone Number :9654614817 
+*************************************
+Products		  Qty		Price
+*************************************
+Bath Soap		  2	   Rs. 80
+Face Cream		  22	   Rs. 3960
+Fash Wash		  2	   Rs. 178
+Spray		  2	   Rs. 458
+Gel		  2	   Rs. 306
+Loshan		  2	   Rs. 398
+Rice		  2	   Rs. 170
+Food Oil		  2	   Rs. 240
+Daal		  2	   Rs. 120
+Wheat		  2	   Rs. 490
+Sugar		  22	   Rs. 1122
+Food Oil		  22	   Rs. 4642
+Maza		  2	   Rs. 130
+Fanta		  2	   Rs. 120
+Frooti		  2	   Rs. 130
+Thumbs Uo		  2	   Rs. 130
+Limca		  2	   Rs. 116
+Maza		  2	   Rs. 120
+-------------------------------------
+Cosmetic Tax			   Rs. 269.0
+Grossary Tax			   Rs. 135.68
+Soft Drink Tax			   Rs. 14.17
+-------------------------------------
+Total Bill			 Rs. 13328.854

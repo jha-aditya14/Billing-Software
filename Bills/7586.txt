@@ -1,0 +1,13 @@
+	Welcome Aditya Retail
+
+Bill Number :7586
+Customer Name: a
+Phone Number :9 
+*************************************
+Products		  Qty		Price
+*************************************
+Food Oil		8		960
+-------------------------------------
+Grossary Tax			    Rs. 19.2
+-------------------------------------
+Total Bill			  Rs. 979.2

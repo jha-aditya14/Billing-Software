@@ -1,0 +1,15 @@
+	Welcome Aditya Retail
+
+Bill Number :1072
+Customer Name: Aditya
+Phone Number :9654614817 
+*************************************
+Products		  Qty		Price
+*************************************
+Bath Soap		50		Rs. str(2000)
+Daal		10		Rs. str(600)
+-------------------------------------
+Cosmetic Tax			    Rs. 100.0
+Grossary Tax			    Rs. 12.0
+-------------------------------------
+Total Bill			  Rs. 2712.0

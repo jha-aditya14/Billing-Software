@@ -1,0 +1,17 @@
+	Welcome Aditya Retail
+
+Bill Number :5863
+Customer Name: Ranjana Jha
+Phone Number :8926562759 
+*************************************
+Products		  Qty		Price
+*************************************
+Face Cream		  34	   Rs. 6120
+Food Oil		  33	   Rs. 3960
+Maza		  3	   Rs. 195
+-------------------------------------
+Cosmetic Tax			   Rs. 306.0
+Grossary Tax			   Rs. 79.2
+Soft Drink Tax			   Rs. 3.71
+-------------------------------------
+Total Bill			Rs. 10663.904999999999
