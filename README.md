@@ -34,5 +34,5 @@ For any questions or inquiries, please contact the project maintainer:
 Feel free to reach out with any feedback or concerns.
 
 ## Screenshots
-- [Screenshot 1](ScreenShots/Screenshot1.png)
+- ![Screenshot 1](ScreenShots/Screenshot1.png)
 
