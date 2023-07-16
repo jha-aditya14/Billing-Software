@@ -30,6 +30,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or inquiries, please contact the project maintainer:
 
 - Aditya Jha
-- Email: [aditya@example.com](mailto:aditya@example.com)
+- Email: [aj147ps@gmail.com](mailto:aj147ps@gmail.com)
 
 Feel free to reach out with any feedback or concerns.
