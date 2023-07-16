@@ -32,3 +32,7 @@ For any questions or inquiries, please contact the project maintainer:
 - Email: [aj147ps@gmail.com](mailto:aj147ps@gmail.com)
 
 Feel free to reach out with any feedback or concerns.
+
+## Screenshots
+- [Screenshot 1](ScreenShots/Screenshot1.png)
+
